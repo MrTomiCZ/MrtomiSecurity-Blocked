@@ -1,3 +1,1 @@
-1.1.1.1
-76.76.21.21
-frdomains.eu
+anydesk.com
