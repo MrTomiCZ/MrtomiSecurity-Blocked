@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/blocked.txt",
+      "destination": "/blocked.txt"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/blocked.txt"
+    }
+  ]
+}
