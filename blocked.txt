@@ -2,3 +2,11 @@
 anydesk.com
 rustdesk.com
 ultraviewer.net
+anyviewer.com
+aeroadmin.com
+teamviewer.com
+jumpdesktop.com
+getscreen.me
+helpwire.app
+distantdesktop.com
+iperiusremote.com
